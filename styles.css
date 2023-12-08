@@ -1,0 +1,18 @@
+a{
+  color: aqua;
+  text-decoration: solid;
+}
+a:hover { 
+  color: blue;
+
+}
+a:visited 
+ { 
+  color: red;
+ }
+ .b :checked { 
+  opacity:0 ;
+ }
+ .c:focus { 
+  outline:invert;
+ }
